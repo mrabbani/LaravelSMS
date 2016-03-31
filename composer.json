@@ -12,7 +12,6 @@
     "require": {},
     "autoload": {
         "psr-4": {
-
             "Mrabbani\\LaravelInfobip\\" : "src/"
         }
     }
