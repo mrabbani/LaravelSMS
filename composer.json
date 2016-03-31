@@ -1,0 +1,13 @@
+{
+    "name": "mrabbani/laravel_infobip",
+    "description": "SMS Gatway",
+    "type": "test",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "mrabbani",
+            "email": "mahbub.rucse@gmail.com"
+        }
+    ],
+    "require": {}
+}
