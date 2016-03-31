@@ -9,5 +9,11 @@
             "email": "mahbub.rucse@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+
+            "Mrabbani\\LaravelInfobip\\" : "src/"
+        }
+    }
 }
