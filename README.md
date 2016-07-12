@@ -229,7 +229,7 @@ This driver sends messages through the [Infobib](http://www.infobip.com/en) mess
 
     return [
         'driver' => 'infobip',
-        'from' => 'InfoSMS', //Your Twilio Number in E.164 Format.
+        'from' => 'InfoSMS',
         'infobip'=> [
              'username' => 'username of infobip',
              'password' => 'password of infobip'
