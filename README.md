@@ -45,9 +45,7 @@ Please read the Laravel 4 [documentation.](https://github.com/SimpleSoftwareIO/s
 
 First, add the Simple SMS package to your `require` in your `composer/json` file:
 
-    "require": {
-        "simplesoftwareio/simple-sms": "~2"
-    }
+`composer require mrabbani/laravel_infobip`
 
 Next, run the `composer update` command.  This will install the package into your Laravel application.
 
